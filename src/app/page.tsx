@@ -12,7 +12,7 @@ const page = () => {
 
     <>
       <Button>
-        Click me Here
+        Click me Her
       </Button>
       <p className='text-red-600'></p>
     </>
